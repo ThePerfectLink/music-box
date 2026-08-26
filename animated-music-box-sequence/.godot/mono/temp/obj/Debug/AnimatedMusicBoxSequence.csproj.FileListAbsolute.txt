@@ -1,0 +1,17 @@
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/AnimatedMusicBoxSequence.deps.json
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/AnimatedMusicBoxSequence.runtimeconfig.json
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/AnimatedMusicBoxSequence.dll
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/AnimatedMusicBoxSequence.pdb
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.csproj.AssemblyReference.cache
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.AssemblyInfoInputs.cache
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.AssemblyInfo.cs
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.csproj.CoreCompileInputs.cache
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/Animated.505D43DF.Up2Date
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.dll
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/refint/AnimatedMusicBoxSequence.dll
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.pdb
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/AnimatedMusicBoxSequence.genruntimeconfig.cache
+/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/.godot/mono/temp/obj/Debug/ref/AnimatedMusicBoxSequence.dll

@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://bovkqaa0711c1"]
+
+[ext_resource type="PackedScene" uid="uid://cxifp21gapw36" path="res://models/ticket.blend" id="1_b8lnm"]
+[ext_resource type="Texture2D" uid="uid://2r8cpshlt3gb" path="res://models/textures/ticket.png" id="2_7q1or"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_sblf2"]
+albedo_texture = ExtResource("2_7q1or")
+
+[node name="ticket" unique_id=1565649096 instance=ExtResource("1_b8lnm")]
+
+[node name="Cube" parent="." index="0" unique_id=1531015575]
+material_override = SubResource("StandardMaterial3D_sblf2")

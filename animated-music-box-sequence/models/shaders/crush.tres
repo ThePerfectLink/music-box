@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://de32unjjvwm0h"]
+
+[ext_resource type="Shader" uid="uid://cjt0vbgbpsql6" path="res://models/shaders/crush.gdshader" id="1_75xix"]
+[ext_resource type="Texture2D" uid="uid://dqx7o8g7ctjrn" path="res://models/textures/key.png" id="2_1lgm1"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_75xix")
+shader_parameter/fade = 1.0
+shader_parameter/crush_amount = 0.0
+shader_parameter/albedo_texture = ExtResource("2_1lgm1")

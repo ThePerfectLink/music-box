@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://fpshtha7wpls"]
+
+[ext_resource type="PackedScene" uid="uid://b73tskyv3lcaa" path="res://models/table.blend" id="1_v5i0k"]
+[ext_resource type="Texture2D" uid="uid://df7uxi7f1oijd" path="res://models/textures/table.png" id="2_kl0hw"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vjl2i"]
+albedo_texture = ExtResource("2_kl0hw")
+subsurf_scatter_strength = 1.0
+
+[node name="table" unique_id=989507952 instance=ExtResource("1_v5i0k")]
+
+[node name="Cube" parent="." index="0" unique_id=1820046471]
+material_override = SubResource("StandardMaterial3D_vjl2i")

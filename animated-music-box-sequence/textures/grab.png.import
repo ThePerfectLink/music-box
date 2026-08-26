@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://cgtjmmtvjtvtr"
+path="res://.godot/imported/grab.png-37ce7111d723530c118be17c2b0e314d.image"
+
+[deps]
+
+source_file="res://textures/grab.png"
+dest_files=["res://.godot/imported/grab.png-37ce7111d723530c118be17c2b0e314d.image"]
+
+[params]
+

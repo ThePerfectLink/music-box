@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://b6hee7p7acbja"]
+
+[ext_resource type="PackedScene" uid="uid://chaaff2xd0x8n" path="res://models/key.blend" id="1_p0yg6"]
+[ext_resource type="Texture2D" uid="uid://dqx7o8g7ctjrn" path="res://models/textures/key.png" id="2_krfvd"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_d8y70"]
+albedo_texture = ExtResource("2_krfvd")
+
+[node name="key" unique_id=394738248 instance=ExtResource("1_p0yg6")]
+
+[node name="Sphere" parent="." index="0" unique_id=1652461252]
+material_override = SubResource("StandardMaterial3D_d8y70")

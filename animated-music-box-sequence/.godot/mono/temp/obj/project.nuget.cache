@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGdepEThPRc=",
+  "success": true,
+  "projectFilePath": "/home/chrisa/Documents/D&D/Godot/animated-music-box-sequence/AnimatedMusicBoxSequence.csproj",
+  "expectedPackageFiles": [
+    "/home/chrisa/.nuget/packages/godot.sourcegenerators/4.7.1/godot.sourcegenerators.4.7.1.nupkg.sha512",
+    "/home/chrisa/.nuget/packages/godotsharp/4.7.1/godotsharp.4.7.1.nupkg.sha512",
+    "/home/chrisa/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/chrisa/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.30/microsoft.netcore.app.runtime.win-x64.8.0.30.nupkg.sha512",
+    "/home/chrisa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/home/chrisa/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.30/microsoft.aspnetcore.app.runtime.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
